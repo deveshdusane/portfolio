@@ -5,34 +5,22 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
+    title: "Match 3 Saga",
+    category: "Mobile Puzzle Game",
+    tools: "Unity, C#, ScriptableObjects, Event-Driven Architecture",
+    image: "/images/match3saga.jpg",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "Mini Golf",
+    category: "3D Mobile Game",
+    tools: "Unity, C#, Physics, Rigidbody Collision",
+    image: "/images/minigolf.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
-  },
-  {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
+    title: "Connect Balls",
+    category: "Mobile Puzzle Game",
+    tools: "Unity, C#, Touch Input, ScriptableObjects",
+    image: "/images/connectballs.png",
   },
 ];
 

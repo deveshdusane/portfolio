@@ -6,11 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer with 4+ years of experience building scalable web
-          applications using React.js, Angular, Next.js, Node.js, and NestJS. Skilled
-          in microservices architecture, CMS development, and low-code platforms.
-          Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Unity Certified Associate Programmer specializing in mobile gameplay
+          systems, puzzle mechanics, and physics-based interactions. Experienced
+          in building data-driven architectures using ScriptableObjects,
+          implementing event-driven systems, and developing complete gameplay
+          loops from prototype to production-ready Android builds. Strong focus
+          on game state management, performance optimization, modular design,
+          and debugging complex gameplay logic.
         </p>
       </div>
     </div>

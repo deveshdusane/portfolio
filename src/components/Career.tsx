@@ -15,43 +15,56 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Software Development Intern</h4>
+                <h5>MiniOrange Pvt Ltd, Pune</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Enhanced Jira Issue Exporter Plugin using Java and Atlassian SDK,
+              improving data reporting speed by 30%. Debugged and optimized
+              production code, identified root-cause issues and improved
+              maintainability of modular systems.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Software Developer Intern</h4>
+                <h5>Mechrocker Technology, Jalgaon</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Designed and maintained web applications using Java, Spring Boot,
+              Spring MVC, and Spring REST. Developed backend systems reinforcing
+              object-oriented design and architecture fundamentals.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Master in Computer Application (MCA)</h4>
+                <h5>North Maharashtra University — CGPA: 8.59</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2022 – 2024</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Completed postgraduate studies in Computer Application at North
+              Maharashtra University, Jalgaon, Maharashtra.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Bachelor in Computer Application (BCA)</h4>
+                <h5>North Maharashtra University — CGPA: 9.01</h5>
+              </div>
+              <h3>2019 – 2022</h3>
+            </div>
+            <p>
+              Completed undergraduate studies in Computer Application at North
+              Maharashtra University, Jalgaon, Maharashtra.
             </p>
           </div>
         </div>
